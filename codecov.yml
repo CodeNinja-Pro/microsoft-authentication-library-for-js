@@ -4,6 +4,7 @@ comment:
   require_changes: false  
   require_base: no
   require_head: no
+  require_body: yes
   show_carryforward_flags: true
 
 flag_management:

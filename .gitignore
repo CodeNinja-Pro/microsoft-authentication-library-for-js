@@ -80,14 +80,12 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
-*.VC.db
 *.VC.VC.opendb
 
 # Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
-*.sap
 
 # TFS 2012 Local Workspace
 $tf/

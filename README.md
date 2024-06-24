@@ -20,7 +20,7 @@ The [`lib`](https://github.com/AzureAD/microsoft-authentication-library-for-js/t
 
 - [Microsoft Authentication Library for Angular v2.x](lib/msal-angular/): A wrapper of the msal-browser 2.x library for apps using Angular framework.
 
-- [Microsoft Authentication Library for Angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-angular-v1/lib/msal-angular): A wrapper of the core 1.x library for apps using Angular framework.
+- [Microsoft Authentication Library for Angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-angular-v1/lib/msal-angular): A wrapper of the core 1.x library for apps using Angular framework .
 
 ### Libraries in maintenance
 
@@ -30,7 +30,7 @@ The [`maintenance`](https://github.com/AzureAD/microsoft-authentication-library-
 
 - [Active Directory Authentication Library for Node.js](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-node): A [Node.js](https://nodejs.org/en/) library that enables authentication and token acquisition with the Microsoft Identity platform in Node.js applications.
 
-- [Active Directory Authentication Library for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-angular): A browser-based, framework-agnostic core library that enables authentication and token acquisition with the Microsoft Identity platform in JavaScript applications. Implements the OAuth 1.0 Implicit Grant Flow.
+- [Active Directory Authentication Library for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-angular): A browser-based, framework-agnostic core library that enables authentication and   token acquisition with the Microsoft Identity platform in JavaScript applications. Implements the OAuth 1.0 Implicit Grant Flow.
 
 - [Microsoft Authentication Library for AngularJS](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/msal-angularjs): A wrapper of the core 1.x library for apps using the AngularJS framework.
 
@@ -38,7 +38,7 @@ The [`maintenance`](https://github.com/AzureAD/microsoft-authentication-library-
 
 ### Package Structure
 
-We ship a number of different packages which are meant for different platforms. You can see the relationship between packages and different authentication flows they implement below.
+We ship a number of different packages which are meant for different platforms. You can see the relationship between packages and different authentication flows they implement.
 
 ![Package Structure](docs/diagrams/png/PackageStructure.png)
 
